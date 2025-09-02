@@ -92,9 +92,8 @@ header {position:fixed;top:0;left:0;width:100%;height:52px;z-index:9999;transfor
 .section2 .conwrap .portfolio_list li.on .thumb_wrap > a .bg img {transform:scale(1.05);}
 .section2 .conwrap .portfolio_list li .thumb_wrap > a .logo {position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);}
 .section2 .conwrap .portfolio_list li .thumb_wrap > a .logo1 {height:30px;overflow: hidden;} 
-.section2 .conwrap .portfolio_list li .thumb_wrap > a .tech_label {position:absolute;top: 30px;left: 30px;}
-.section2 .conwrap .portfolio_list li .thumb_wrap > a .tech_label .label {font-size: 15px;padding: 4px 11px;border-radius:50vh;background-color: rgba(0,0,0,0.5);}
-.section2 .conwrap .portfolio_list li .thumb_wrap > a .tech_label .label + .label {margin-left:3px;}
+.section2 .conwrap .portfolio_list li .thumb_wrap > a .tech_label {position:absolute;top: 30px;left: 30px;d}
+.section2 .conwrap .portfolio_list li .thumb_wrap > a .tech_label .label {display:inline-block;font-size: 15px;padding: 4px 11px;border-radius:50vh;background-color: rgba(0,0,0,0.5);margin-right:3px;}
 .section2 .conwrap .portfolio_list li .thumb_wrap > a .tech_label .html {color: #50f2ff;}
 .section2 .conwrap .portfolio_list li .thumb_wrap > a .tech_label .css {color: #ff79bf;}
 .section2 .conwrap .portfolio_list li .thumb_wrap > a .tech_label .js {color: #6dff8b;}
@@ -236,9 +235,12 @@ footer .footer_wrap .email_g.in-view a:hover span:after {width:100%;transition-d
     .section2 .conwrap .portfolio_list li .text_wrap .title strong,
     .section2 .conwrap .portfolio_list li.left_d .top_title .title strong {font-size:90px;}
     .section2 .conwrap .portfolio_list li .thumb_wrap {margin-top:60px;}
+    .section2 .conwrap .portfolio_list li .thumb_wrap > a .tech_label {top:15px;left:15px;}
+    .section2 .conwrap .portfolio_list li .thumb_wrap > a .tech_label .label {font-size:12px;padding:3px 10px;margin-bottom:5px;}
     .section2 .conwrap .portfolio_list li.left_d {margin:135px 0;}
     .section2 .conwrap .portfolio_list li.left_d .top_title,
     .section2 .conwrap .portfolio_list li.left_d .bottom_con {width:100%}
+
 
     .section3 {padding-bottom:180px;}
     .section3 .conwrap .project_list_g {margin-top:80px;}
