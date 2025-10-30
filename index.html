@@ -12,3 +12,11 @@
     <div id="root"></div>
   </body>
 </html>
+
+<script>
+  const redirect = sessionStorage.getItem('redirect');
+  if (redirect) {
+    sessionStorage.removeItem('redirect');
+    window.history.replaceState(null, '', redirect);
+  }
+</script>
