@@ -1,14 +1,15 @@
 [
   {
     "id": 1,
-    "title": "CLASS PINGPONG",
-    "description": "천재교육의 클래스핑퐁 웹사이트입니다.",
-    "image": "/images/portfolio_classpingpong.jpg",
+    "title": "Front-end Developer Portfolio",
+    "description": "2025 프론트엔드 포트폴리오 사이트입니다.",
+    "image": "/images/portfolio_front.jpg",
     "link": "https://www.classlink.co.kr/",
     "skills":[
-        "html",
-        "css",
-        "javascript"
+        "react",
+        "scss", 
+        "axios", 
+        "async"
     ]
   },
   {
@@ -20,15 +21,16 @@
     "skills":[
         "react",
         "styled-components",
-        "javascript"
+        "storybook",
+        "redux"
     ]
   },
   {
     "id": 3,
-    "title": "GOOROOMEE BIZ",
-    "description": "구루미 비즈의 반응형 웹사이트 입니다.",
-    "image": "/images/portfolio_gooroomee.jpg",
-    "link": "https://www.classlink.co.kr/",
+    "title": "CLASS PINGPONG",
+    "description": "천재교육의 클래스핑퐁 웹사이트입니다.",
+    "image": "/images/portfolio_classpingpong.jpg",
+    "link": "https://www.clpong.co.kr/",
     "skills":[
         "html",
         "css",
@@ -37,10 +39,10 @@
   },
   {
     "id": 4,
-    "title": "KUDOS VENTURES",
-    "description": "큐더스벤처스의 반응형 웹사이트 입니다.",
-    "image": "/images/portfolio_kudos.jpg",
-    "link": "https://www.classlink.co.kr/",
+    "title": "GOOROOMEE BIZ",
+    "description": "구루미 비즈의 반응형 웹사이트 입니다.",
+    "image": "/images/portfolio_gooroomee.jpg",
+    "link": "https://biz.gooroomee.com/",
     "skills":[
         "html",
         "css",
@@ -49,10 +51,10 @@
   },
   {
     "id": 5,
-    "title": "ATTOPLEX",
-    "description": "아토플렉스의 반응형 웹사이트 입니다.",
-    "image": "/images/portfolio_attoplex.jpg",
-    "link": "https://www.classlink.co.kr/",
+    "title": "KUDOS VENTURES",
+    "description": "큐더스벤처스의 반응형 웹사이트 입니다.",
+    "image": "/images/portfolio_kudos.jpg",
+    "link": "http://kudosventures.co.kr/",
     "skills":[
         "html",
         "css",
@@ -61,10 +63,10 @@
   },
   {
     "id": 6,
-    "title": "이수시스템 WORK UP",
-    "description": "이수시스템 Work Up의 반응형 웹사이트 입니다.",
-    "image": "/images/portfolio_isu.jpg",
-    "link": "https://www.classlink.co.kr/",
+    "title": "ATTOPLEX",
+    "description": "아토플렉스의 반응형 웹사이트 입니다.",
+    "image": "/images/portfolio_attoplex.jpg",
+    "link": "http://attoplex.co.kr/",
     "skills":[
         "html",
         "css",
@@ -73,13 +75,14 @@
   },
   {
     "id": 7,
-    "title": "Front-end Developer Portfolio",
-    "description": "2025 프론트엔드 포트폴리오 사이트입니다.",
-    "image": "/images/portfolio_front.jpg",
-    "link": "https://www.classlink.co.kr/",
+    "title": "이수시스템 WORK UP",
+    "description": "이수시스템 Work Up의 반응형 웹사이트 입니다.",
+    "image": "/images/portfolio_isu.jpg",
+    "link": "https://www.workup.plus/",
     "skills":[
-        "react",
-        "scss"
+        "html",
+        "css",
+        "javascript"
     ]
   },
   {
