@@ -1,0 +1,25 @@
+{
+    "career": [
+        {
+            "company": "천재교육",
+            "period": "1년",
+            "duration": "2024.01.02 - 2025.01.01",
+            "position": "서비스개발팀 웹퍼블리셔",
+            "work": "신규 서비스 퍼블리싱 / 웹 사이트 리뉴얼"
+        },
+        {
+            "company": "디자인픽셀",
+            "period": "2년 5개월",
+            "duration": "2020.12.01 - 2023.04.21",
+            "position": "개발팀 웹퍼블리셔",
+            "work": "반응형 웹 사이트 구축 / 고도몰, 카페24 사이트 유지보수"
+        }
+    ],
+    "skills": [
+        {"name": "HTML5", "icon": "/images/i_html.png"},
+        {"name": "JavaScript", "icon": "/images/i_js.png"},
+        {"name": "React.js", "icon": "/images/i_react.png"},
+        {"name": "Sass", "icon": "/images/i_sass.png"},
+        {"name": "CSS", "icon": "/images/i_css.png"}
+    ]
+}

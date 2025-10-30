@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "title": "CLASS PINGPONG",
+    "description": "천재교육의 클래스핑퐁 웹사이트입니다.",
+    "image": "/images/portfolio_classpingpong.jpg",
+    "link": "https://www.classlink.co.kr/",
+    "skills":[
+        "html",
+        "css",
+        "javascript"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "CLASS LINK",
+    "description": "천재교육의 클래스링크 웹사이트입니다.",
+    "image": "/images/portfolio_classlink.jpg",
+    "link": "https://www.classlink.co.kr/",
+    "skills":[
+        "react",
+        "styled-components",
+        "javascript"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "GOOROOMEE BIZ",
+    "description": "구루미 비즈의 반응형 웹사이트 입니다.",
+    "image": "/images/portfolio_gooroomee.jpg",
+    "link": "https://www.classlink.co.kr/",
+    "skills":[
+        "html",
+        "css",
+        "javascript"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "KUDOS VENTURES",
+    "description": "큐더스벤처스의 반응형 웹사이트 입니다.",
+    "image": "/images/portfolio_kudos.jpg",
+    "link": "https://www.classlink.co.kr/",
+    "skills":[
+        "html",
+        "css",
+        "javascript"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "ATTOPLEX",
+    "description": "아토플렉스의 반응형 웹사이트 입니다.",
+    "image": "/images/portfolio_attoplex.jpg",
+    "link": "https://www.classlink.co.kr/",
+    "skills":[
+        "html",
+        "css",
+        "javascript"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "이수시스템 WORK UP",
+    "description": "이수시스템 Work Up의 반응형 웹사이트 입니다.",
+    "image": "/images/portfolio_isu.jpg",
+    "link": "https://www.classlink.co.kr/",
+    "skills":[
+        "html",
+        "css",
+        "javascript"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Front-end Developer Portfolio",
+    "description": "2025 프론트엔드 포트폴리오 사이트입니다.",
+    "image": "/images/portfolio_front.jpg",
+    "link": "https://www.classlink.co.kr/",
+    "skills":[
+        "react",
+        "scss"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Web Publisher Portfolio",
+    "description": "2023 웹퍼블리셔 포트폴리오 사이트입니다.",
+    "image": "/images/portfolio_web.jpg",
+    "link": "https://www.classlink.co.kr/",
+    "skills":[
+        "html",
+        "scss",
+        "javascript"
+    ]
+  }
+]
