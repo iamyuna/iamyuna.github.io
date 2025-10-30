@@ -1,9 +1,19 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; URL=/" />
+    <meta charset="utf-8" />
+    <script type="text/javascript">
+      var redirect = sessionStorage.redirect;
+      delete sessionStorage.redirect;
+      if (redirect && redirect != location.href) {
+        history.replaceState(null, null, redirect);
+      }
+    </script>
   </head>
   <body>
-    <p>Redirecting...</p>
+    <script type="text/javascript">
+      sessionStorage.redirect = location.href;
+      location.replace("/");
+    </script>
   </body>
 </html>
