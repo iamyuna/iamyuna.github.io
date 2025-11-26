@@ -4,7 +4,7 @@
     "title": "Front-end Developer Portfolio",
     "description": "2025 프론트엔드 포트폴리오 사이트입니다.",
     "image": "/images/portfolio_front.jpg",
-    "link": "https://www.classlink.co.kr/",
+    "link": "https://iamyuna.github.io/",
     "skills":[
         "react",
         "scss", 
@@ -90,7 +90,7 @@
     "title": "Web Publisher Portfolio",
     "description": "2023 웹퍼블리셔 포트폴리오 사이트입니다.",
     "image": "/images/portfolio_web.jpg",
-    "link": "https://www.classlink.co.kr/",
+    "link": "https://iamyuna.github.io/2023_portfolio/",
     "skills":[
         "html",
         "scss",
